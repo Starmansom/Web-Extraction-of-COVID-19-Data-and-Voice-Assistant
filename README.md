@@ -2,4 +2,4 @@
 COVID-19 data is web scrapped using and is processed using Pandas for which a Voice Assistant is made to answer related questions
 
 
-Inspired from Tech With Tim
+Inspired from Tech With Tim @Youtube
